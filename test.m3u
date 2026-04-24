@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="",test
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:08:1F:FC&stream=1902357&extension=ts
